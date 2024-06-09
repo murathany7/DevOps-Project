@@ -1,0 +1,6 @@
+join-workers.txt
+ec2pair1.pem
+
+/pics
+/kluster/eksctl_windows_amd64
+/terraform_1.8.5_windows_amd64
